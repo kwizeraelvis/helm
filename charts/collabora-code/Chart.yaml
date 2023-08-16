@@ -1,12 +1,12 @@
 apiVersion: v2
-appVersion: "21.11.3.6.1"
+appVersion: "23.05.2.2.1"
 description: A Helm chart for Collabora Office - CODE-Edition
-name: collabora-code
-version: 2.5.1
+name: collabora-code-aos
+version: 2.5.2
 icon: https://avatars0.githubusercontent.com/u/22418908?s=200&v=4
 sources:
-- https://chrisingenhaag.github.io/helm/
+- https://kwizeraelvis.github.io/helm/
 maintainers:
-- name: Christian
-  email: christian.ingenhaag@googlemail.com
-home: https://chrisingenhaag.github.io/helm/
+- name: Kwizera
+  email: kwizeraelvis6@googlemail.com
+home: https://kwizeraelvis.github.io/helm/
