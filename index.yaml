@@ -337,4 +337,21 @@ entries:
     urls:
     - https://chrisingenhaag.github.io/helm/deprecated-releases/collabora-code-1.0.0.tgz
     version: 1.0.0
-generated: "2022-08-13T07:52:19.450779142Z"
+  collabora-code-aos:
+  - apiVersion: v2
+    appVersion: 23.05.2.2.1
+    created: "2023-08-16T10:09:07.741219162Z"
+    description: A Helm chart for Collabora Office - CODE-Edition
+    digest: 190fec74dc87e5d143b7e85e8cf771b7d313ee0e2d9919f49845f4b56b4efff3
+    home: https://kwizeraelvis.github.io/helm/
+    icon: https://avatars0.githubusercontent.com/u/22418908?s=200&v=4
+    maintainers:
+    - email: kwizeraelvis6@googlemail.com
+      name: Kwizera
+    name: collabora-code-aos
+    sources:
+    - https://kwizeraelvis.github.io/helm/
+    urls:
+    - https://github.com/kwizeraelvis/helm/releases/download/collabora-code-aos-0.1/collabora-code-aos-0.1.tgz
+    version: "0.1"
+generated: "2023-08-16T10:09:07.741436262Z"
