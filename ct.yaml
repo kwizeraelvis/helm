@@ -1,6 +1,6 @@
 helm-extra-args: --timeout 600s
 chart-dirs:
-  - charts/collabora-code
+  - charts/collabora-code-aos
 chart-repos:
   - stable=https://charts.helm.sh/stable
 target-branch: main
