@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   collabora-code-aos:
   - apiVersion: v2
+    appVersion: 23.05.6.3.1
+    created: "2023-12-18T11:18:21.51147576Z"
+    description: A Helm chart for Collabora Office - CODE-Edition
+    digest: 5b10f63f2c91d79aad3a0d8ad24c70bc673f48db681a83659e21c8b6c4034e85
+    home: https://kwizeraelvis.github.io/helm/
+    icon: https://avatars0.githubusercontent.com/u/22418908?s=200&v=4
+    maintainers:
+    - email: kwizeraelvis6@googlemail.com
+      name: Kwizera
+    name: collabora-code-aos
+    sources:
+    - https://kwizeraelvis.github.io/helm/
+    urls:
+    - https://github.com/kwizeraelvis/helm/releases/download/collabora-code-aos-0.2/collabora-code-aos-0.2.tgz
+    version: "0.2"
+  - apiVersion: v2
     appVersion: 23.05.2.2.1
     created: "2023-08-16T10:09:07.741219162Z"
     description: A Helm chart for Collabora Office - CODE-Edition
@@ -17,4 +33,4 @@ entries:
     urls:
     - https://github.com/kwizeraelvis/helm/releases/download/collabora-code-aos-0.1/collabora-code-aos-0.1.tgz
     version: "0.1"
-generated: "2023-08-16T10:09:07.741436262Z"
+generated: "2023-12-18T11:18:21.511489165Z"
